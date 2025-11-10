@@ -35,9 +35,5 @@ This project simulates a real-world **Operations Analyst** workflow:
 | Business Intelligence | Power BI |
 | Database Querying | SQL (SQL Server) |
 | Data Visualization | Power BI Charts, Tables |
-| Version Control | Git & GitHub |
 
----
-
-## 📂 Project Structure
 
