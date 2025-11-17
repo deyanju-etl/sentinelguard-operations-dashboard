@@ -1,13 +1,13 @@
-# 🛡️ SentinelGuard Operations Dashboard
+ SentinelGuard Operations Dashboard
 
-### 📊 Power BI & SQL Analytics Project
+ Power BI & SQL Analytics Project
 
 The **SentinelGuard Operations Dashboard** is a data-driven performance monitoring project designed to track and analyze key metrics for a security service company.  
 Using **Power BI** and **SQL**, it provides insights into incident management, client satisfaction, operational efficiency, and cost performance.
 
 ---
 
-## 🧠 Project Overview
+ Project Overview
 
 This project simulates a real-world **Operations Analyst** workflow:
 - Data cleaning and transformation in **Python** and **Power BI**
@@ -16,7 +16,7 @@ This project simulates a real-world **Operations Analyst** workflow:
 
 ---
 
-## 📈 Key Insights & Features
+ Key Insights & Features
 
 - Total incidents by location and deployment type  
 - Average response time and client satisfaction analysis  
@@ -27,13 +27,9 @@ This project simulates a real-world **Operations Analyst** workflow:
 
 ---
 
-## 🛠️ Tools & Technologies
+ Tools Used
 
-| Category | Tools Used |
-|-----------|-------------|
-| Data Analysis | Python, Pandas |
-| Business Intelligence | Power BI |
-| Database Querying | SQL (SQL Server) |
-| Data Visualization | Power BI Charts, Tables |
+ Python, Power BI, SQL Server
+
 
 
